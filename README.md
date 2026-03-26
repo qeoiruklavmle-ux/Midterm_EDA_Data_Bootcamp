@@ -76,7 +76,8 @@ Productivity growth is a key driver of long-term economic performance, influenci
 Understanding the slowdown in U.S. productivity growth begins with examining how productivity has evolved over time.  Identifying long-term trends in productivity growth is therefore a critical first step in determining whether a structural slowdown has occurred.
 
 Figure 1: Productivity Growth Rate
-<img width="284" height="228" alt="image" src="https://github.com/user-attachments/assets/4f7e4c1c-9b5d-451e-a328-669a8abb3984" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/4f7e4c1c-9b5d-451e-a328-669a8abb3984" />
 
 *	Productivity is cyclical and volatile
     *	There are frequent spikes and drops, meaning productivity growth is not stable and varies year to year
