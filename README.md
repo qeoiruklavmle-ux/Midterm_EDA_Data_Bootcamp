@@ -25,11 +25,19 @@
 
 Source: OECD
 
+---
+
 ## Summary
 
-This analysis examines the slowdown in U.S. productivity growth over time and investigates whether it is driven by changes in capital investment or technological progress (multifactor productivity, MFP). Using time series trends, distribution shifts, correlation analysis, scatter relationships, and growth accounting decomposition, the results show a clear decline in productivity growth—especially after the early 2000s.
+This analysis examines the slowdown in U.S. productivity growth over time and investigates whether it is driven by changes in capital investment or technological progress. Using time series trends, distribution shifts, correlation analysis, scatter relationships, and growth accounting decomposition, the results show a clear decline in productivity growth—especially after the early 2000s.
 
 While capital deepening remains relatively stable and continues to contribute to productivity, technological progress (MFP) appears to play a more important role in explaining fluctuations and the observed slowdown. Additionally, further decomposition of capital reveals that ICT-related capital contributes more consistently to productivity than non-ICT capital, which is more volatile.
+
+---
+
+## Research Question
+
+**“To what extent can the slowdown in U.S. productivity growth be explained by changes in capital investment and fluctuations in multifactor productivity?”**
 
 ---
 
@@ -59,10 +67,23 @@ While capital deepening remains relatively stable and continues to contribute to
 
 **The slowdown is driven by instability, not disappearance of capital inputs.**
 
---
+---
 
 ## Introduction
+ 
+Productivity growth is a key driver of long-term economic performance, influencing wages, living standards, and overall economic prosperity. In recent decades, however, the United States has experienced a noticeable slowdown in productivity growth, raising questions about its underlying causes.
 
+Understanding the slowdown in U.S. productivity growth begins with examining how productivity has evolved over time.  Identifying long-term trends in productivity growth is therefore a critical first step in determining whether a structural slowdown has occurred.
+
+Figure 1: Productivity Growth Rate
+<img width="284" height="228" alt="image" src="https://github.com/user-attachments/assets/4f7e4c1c-9b5d-451e-a328-669a8abb3984" />
+
+*	Productivity is cyclical and volatile
+    *	There are frequent spikes and drops, meaning productivity growth is not stable and varies year to year
+*	Strong growth in the late 1990s / early 2000s
+    *	This aligns with the tech/IT boom, when computers and the internet boosted efficiency.
+*	Noticeable slowdown after the early 2000s
+    *	Growth mostly stays around ~1% or lower
 
 ---
 
