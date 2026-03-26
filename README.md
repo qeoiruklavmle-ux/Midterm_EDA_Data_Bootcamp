@@ -10,7 +10,7 @@
 
 | File | Description |
 | :--- | :--- |
-| EDA_Case_Study.ipynb | Project Notebook: The consolidated version used to generate visualizations and statistical insights for the case. |
+| Jeon_Helen_Productivity_Growth.ipynb | Project Notebook: The consolidated version used to generate visualizations and statistical insights for the case. |
 | Productivity Growth USA All Measures.csv | Dataset: OECD productivity dataset containing U.S. growth measures. Serves as the primary data source for all exploratory analysis and growth accounting in this project. |
 | README.md | Documentation: The main landing page explaining project scope and findings. |
 
