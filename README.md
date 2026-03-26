@@ -37,7 +37,7 @@ While capital deepening remains relatively stable and continues to contribute to
 
 ## Research Question
 
-**“To what extent can the slowdown in U.S. productivity growth be explained by changes in capital investment and fluctuations in multifactor productivity?”**
+**To what extent can the slowdown in U.S. productivity growth be explained by changes in capital investment and fluctuations in multifactor productivity?**
 
 ---
 
@@ -70,14 +70,15 @@ While capital deepening remains relatively stable and continues to contribute to
 ---
 
 ## Introduction
- 
+
+### Labor Productivity Growth Over Time
 Productivity growth is a key driver of long-term economic performance, influencing wages, living standards, and overall economic prosperity. In recent decades, however, the United States has experienced a noticeable slowdown in productivity growth, raising questions about its underlying causes.
 
 Understanding the slowdown in U.S. productivity growth begins with examining how productivity has evolved over time.  Identifying long-term trends in productivity growth is therefore a critical first step in determining whether a structural slowdown has occurred.
 
 Figure 1: Productivity Growth Rate
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/4f7e4c1c-9b5d-451e-a328-669a8abb3984" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4f7e4c1c-9b5d-451e-a328-669a8abb3984" />
 
 *	Productivity is cyclical and volatile
     *	There are frequent spikes and drops, meaning productivity growth is not stable and varies year to year
@@ -85,6 +86,33 @@ Figure 1: Productivity Growth Rate
     *	This aligns with the tech/IT boom, when computers and the internet boosted efficiency.
 *	Noticeable slowdown after the early 2000s
     *	Growth mostly stays around ~1% or lower
+
+To further understand the nature of the slowdown, it is important to examine how the distribution of  growth rates has changed over time. Figure 2 shows the distribution of productivity growth rates throughout 1960 to 2024, where observations are more spread out and include a higher concentration of moderate-to-high growth outcomes. In contrast, Figure 3 shows the distribution in the later period (1996 - 2024), which appears more concentrated around lower growth rates and includes fewer high-growth observations. This visual comparison suggests a leftward shift in the distribution of productivity growth, indicating that the slowdown is not limited to a few periods but reflects a broader change across the entire distribution.
+
+Figure 2: Distribution of Productivity Growth Rates (1960 - 2024)
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/69d95978-ceff-412a-a481-6ab43f1b3718" />
+
+Figure 3: Distribution of Productivity Growth Rates (1996 - 2024)
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2786e3c1-b635-41e2-baef-1718b4152e9a" />
+
+A more precise way to quantify this change is through percentile analysis (Figure 4). By comparing key points in the distribution, such as the 25th, 50th (median), and 75th percentiles, we can determine whether the slowdown is concentrated in certain segments or reflects a broader structural shift.
+
+Figure 4:
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6d813c72-b37d-4e1f-b98b-1b411189c483" />
+
+Table 1:
+
+| Percentile | Pre-2000 (%) | Post-2000 (%) | Difference |
+| :--- | :--- | :--- | :--- |
+| 25th |	0.963	| 0.915	| 🔻 -0.049 |
+| 50th (Median) |	1.639	| 1.191	| 🔻 -0.449 |
+| 75th	| 2.314 |	1.778	| 🔻 -0.537 |
+
+The comparison of percentiles shows a clear downward shift in the distribution of productivity growth. The median growth rate declined significantly from 1.64% to 1.19%, while the 75th percentile also fell by more than 0.5 percentage points (Table 1). This indicates that not only has typical productivity growth weakened, but even the strongest growth periods are less robust than before. Therefore, the slowdown reflects a broad structural decline.
+
 
 ---
 
