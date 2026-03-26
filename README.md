@@ -83,6 +83,7 @@ Figure 1: U.S. Productivity Growth Rates Over Time
 *	Noticeable slowdown after the early 2000s
     *	Growth mostly stays around ~1% or lower
 
+### Distribution of Labor Productivity Growth Rates Pre and Post 2000
 To further understand the nature of the slowdown, it is important to examine how the distribution of  growth rates has changed over time. Figure 2 shows the distribution of productivity growth rates throughout 1960 to 2024, where observations are more spread out and include a higher concentration of moderate-to-high growth outcomes. In contrast, Figure 3 shows the distribution in the later period (1996 - 2024), which appears more concentrated around lower growth rates and includes fewer high-growth observations. This visual comparison suggests a leftward shift in the distribution of productivity growth, indicating that the slowdown is not limited to a few periods but reflects a broader change across the entire distribution.
 
 Figure 2: Distribution of Productivity Growth Rates (1960 - 2024)
@@ -111,6 +112,8 @@ The comparison of percentiles shows a clear downward shift in the distribution o
 
 ## Analysis
 
+### Factors of Labor Productivity Growth
+
 To understand the underlying drivers of the broad structural slowdown, the project investigates  the relationships between productivity and its key inputs. In particular, capital deepening and technological progress represent the primary channels through which productivity evolves over time. The following correlation matrix (Figure 5) highlights how closely productivity growth is associated with these factors, providing insight into whether changes in capital investment or technological progress play a more significant role in shaping productivity outcomes.
 
 Figure 5: Correlation Between Productivity Growth, Capital Deepening, and MFP
@@ -131,6 +134,22 @@ The comparison of growth rates over time in Figure 7 provides important insight 
 Figure 7: Growth Rates of Productivity, Capital Deepening, and MFP Over Time
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d8478b4f-75ca-41c7-9fda-0c16b1b0ee6b" />
+
+### Growth Accounting Decomposition
+
+To quantify how much each factor contributes to overall productivity growth and isolate these effects, a growth accounting framework can be used to decompose productivity into contributions from capital and technological progress. 
+
+The Solow model suggests that labor productivity growth rate (Y/L) is broken down into two components: 
+* Contribution from capital deepening (K/L) (weighted by α)
+* Technological progress growth (A)
+
+<img width="476" height="122" alt="Screenshot 2026-03-26 at 17-12-55 solow labor productivity growth equation - Google Search" src="https://github.com/user-attachments/assets/91c67709-c88b-435a-b0c1-012cbf167a8b" />
+
+Figure 8 presents an OECD-based growth accounting decomposition of productivity. While capital provides a relatively stable foundation, fluctuations in productivity closely mirror changes in MFP, particularly during periods of slowdown and recovery. This suggests that variations in technological progress, rather than capital investment, play a more significant role in driving changes in productivity growth over time.
+
+Figure 8: Growth Accounting Decomposition of Productivity Growth
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/35d8e3a8-09fa-4e28-85ef-92bc549780bd" />
 
 
 ---
