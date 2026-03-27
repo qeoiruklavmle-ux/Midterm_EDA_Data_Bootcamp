@@ -57,12 +57,6 @@ While capital deepening remains relatively stable and continues to contribute to
 
 **This suggests MFP plays a stronger role in productivity changes.**
 
-### 3. Pre vs Post 2000 comparison
-- Capital contribution is relatively stable
-- MFP remains large but inconsistent  
-
-**The slowdown is driven by instability, not disappearance of capital inputs.**
-
 ---
 
 ## Introduction
